@@ -1,6 +1,5 @@
 /*
  * *$
  *
- * Copyright by toolarium-java-agent, all rights reserved.
- * MIT License: https://mit-license.org
+ * Copyright by toolarium, all rights reserved.
  */
