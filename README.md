@@ -10,11 +10,6 @@ Defines the toolarium java agent.
 This is part of the [common-gradle-build](https://github.com/toolarium/common-gradle-build/).
 
 
-## Getting Started
-
-The project implements a compatible [keep a changelog](https://keepachangelog.com/en/1.0.0/) parser / validator and formater.
-
-
 ## Use it
 
 To us this in your project, include the dependency (by now the newest version is **0.8.0**):
